@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.WebParser", "Acme.WebParser\Acme.WebParser.csproj", "{8A5070D9-C232-4E6C-A26C-181F94D2F5E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.TestDataGenerator", "Acme.TestDataGenerator\Acme.TestDataGenerator.csproj", "{8B2B1128-6C1D-4842-A373-80A3C7BBEC68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A5070D9-C232-4E6C-A26C-181F94D2F5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5070D9-C232-4E6C-A26C-181F94D2F5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5070D9-C232-4E6C-A26C-181F94D2F5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5070D9-C232-4E6C-A26C-181F94D2F5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B2B1128-6C1D-4842-A373-80A3C7BBEC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2B1128-6C1D-4842-A373-80A3C7BBEC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2B1128-6C1D-4842-A373-80A3C7BBEC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2B1128-6C1D-4842-A373-80A3C7BBEC68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
